@@ -50,17 +50,30 @@ I am continuously improving my analytical and problem-solving skills through han
 
 ### 1. Insurance Policy Analytics
 
-- Data cleaning and exploratory analysis
-- Policy performance and customer analysis
-- Business insights using Python
+**Tools:** Excel | SQL | Python | Power BI | Tableau
+
+- Data cleaning and exploratory data analysis
+- Customer demographic analysis
+- Insurance policy performance analysis
+- Active, lapsed and terminated policy analysis
+- Premium and coverage amount analysis
+- Claims and payment analysis
 - Interactive dashboards and KPI reporting
+
+**Project Repository:** [Insurance Policy Analytics](https://github.com/anasta-chandran/Insurance-Policy-Analytics)
+
+---
 
 ### 2. E-commerce Analytics – Olist Dataset
 
+**Tools:** Excel | SQL | Python | Power BI | Tableau
+
 - Customer and order analysis
-- Sales and payment analysis
-- Delivery performance and customer review analysis
-- Business insights using Excel, SQL, Python, Power BI and Tableau
+- Sales and revenue analysis
+- Payment analysis
+- Delivery performance analysis
+- Customer review and satisfaction analysis
+- Business insights and interactive dashboards
 
 **Project Repository:** [Olist E-commerce Analytics](https://github.com/anasta-chandran/Olist-Ecommerce-Analytics)
 
@@ -71,6 +84,7 @@ I am continuously improving my analytical and problem-solving skills through han
 - Business Analytics
 - Data Analytics
 - Business Intelligence
+- Data Visualization
 - Data-driven Decision Making
 
 ---
