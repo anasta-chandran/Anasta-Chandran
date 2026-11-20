@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm Anasta Chandran 👋</p>
+# <p align="center">Hi, I'm Anasta Chandran </p>
 
 <h3 align="center">Aspiring Business Analyst | SQL | Python | Excel | Power BI | Tableau</h3>
 
