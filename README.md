@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Anasta Chandran</h1>
 
-<h3 align="center">Business & Data Analytics | Turning Data into Business Insights</h3>
+<h3 align="center">Aspiring Business Analyst | SQL | Python | Excel | Power BI | Tableau</h3>
 
 ---
 
