@@ -1,10 +1,14 @@
-# Hi, I'm Anasta Chandran
+# <p align="center">Hi, I'm Anasta Chandran 👋</p>
 
-### Aspiring Business Analyst | SQL | Python | Excel | Power BI | Tableau
+<h3 align="center">Aspiring Business Analyst | SQL | Python | Excel | Power BI | Tableau</h3>
+
+<p align="center">
+  <i>Transforming Data into Meaningful Business Insights</i>
+</p>
 
 ---
 
-## About Me
+## 👩‍💻 About Me
 
 I am a Business & Data Analytics enthusiast with a background in Information Systems Management and practical experience through data analytics internships and projects.
 
@@ -16,13 +20,17 @@ I am continuously improving my analytical and problem-solving skills through han
 
 **Currently seeking opportunities in Business Analytics, Data Analytics, and Business Intelligence.**
 
-## Education
+---
+
+## 🎓 Education
 
 - **MBA** – Bharathiar University (Pursuing)
 - **Business Analytics** – Professional Course (Completed)
 - **B.Sc. Information Systems Management**
 
-## Technical Skills
+---
+
+## 🛠️ Technical Skills
 
 - **Data Analysis:** Advanced Excel, SQL, Python
 - **Data Visualization:** Power BI, Tableau
@@ -30,25 +38,35 @@ I am continuously improving my analytical and problem-solving skills through han
 - **Database:** MySQL
 - **Analytical Skills:** Data Cleaning, Exploratory Data Analysis, Statistical Analysis, Business Reporting
 
-## Professional Experience
+---
+
+## 💼 Professional Experience
 
 - Six-month Data Analyst Internship
 
-## Featured Projects
+---
+
+## 📊 Featured Projects
 
 ### 1. Insurance Policy Analytics
 
 - Data cleaning and exploratory analysis
 - Policy performance and customer analysis
 - Business insights using Python
+- Interactive dashboards and KPI reporting
 
 ### 2. E-commerce Analytics – Olist Dataset
 
 - Customer and order analysis
 - Sales and payment analysis
 - Delivery performance and customer review analysis
+- Business insights using Excel, SQL, Python, Power BI and Tableau
 
-## Areas of Interest
+**Project Repository:** [Olist E-commerce Analytics](https://github.com/anasta-chandran/Olist-Ecommerce-Analytics)
+
+---
+
+## 🎯 Areas of Interest
 
 - Business Analytics
 - Data Analytics
@@ -57,6 +75,22 @@ I am continuously improving my analytical and problem-solving skills through han
 
 ---
 
-## My Approach
+## 💡 My Approach
 
-*Transforming raw data into meaningful insights that support better business decisions.*
+<p align="center">
+  <i>"Transforming raw data into meaningful insights that support better business decisions."</i>
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/anasta-chandran">GitHub</a>
+  &nbsp; | &nbsp;
+  <a href="mailto:anastachandran@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <b>Thank you for visiting my profile!</b>
+</p>
